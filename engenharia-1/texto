@@ -2,3 +2,13 @@ We see three critical differences between programming and software engineering: 
 
 
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
+
+
+Trade-off refere-se à decisão de sacrificar uma coisa em favor de outra. Isso geralmente ocorre ao escolher entre diferentes soluções para um problema, onde uma abordagem pode ter vantagens em certos aspectos, mas desvantagens em outros. Por exemplo, trocar velocidade de execução por consumo de memória, ou simplicidade de código por flexibilidade.
+
+1. **Velocidade x Memória:** Escolher entre algoritmos que são mais rápidos em termos de tempo de execução, mas consomem mais memória, ou algoritmos que são mais eficientes em termos de memória, mas mais lentos.
+
+2. **Legibilidade x Desempenho:** Escrever código altamente otimizado pode melhorar o desempenho, mas frequentemente às custas da legibilidade do código. Às vezes, é necessário decidir entre escrever um código mais claro e fácil de entender ou um código mais rápido, porém mais complexo.
+
+3. **Manutenibilidade × Eficiência:** Escolher entre implementações mais simples e fáceis de manter ou soluções altamente otimizadas que podem ser mais difíceis de dar suporte e manter no longo prazo.
+
