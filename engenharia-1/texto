@@ -10,5 +10,5 @@ Trade-off refere-se à decisão de sacrificar uma coisa em favor de outra. Isso 
 
 2. **Legibilidade x Desempenho:** Escrever código altamente otimizado pode melhorar o desempenho, mas frequentemente às custas da legibilidade do código. Às vezes, é necessário decidir entre escrever um código mais claro e fácil de entender ou um código mais rápido, porém mais complexo.
 
-3. **Manutenibilidade × Eficiência:** Escolher entre implementações mais simples e fáceis de manter ou soluções altamente otimizadas que podem ser mais difíceis de dar suporte e manter no longo prazo.
+3. **Manutenibilidade × Eficiência:** Escolher entre implementações mais simples e fáceis de manter ou soluções altamente otimizadas que podem ser mais difíceis de dar suporte e manter no longo prazo
 
