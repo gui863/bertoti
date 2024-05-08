@@ -5,7 +5,9 @@
 ### 1. Visibilidade do status do sistema
 "O design deve sempre manter os usuários informados sobre o que está acontecendo, através de feedback apropriado dentro de um período de tempo razoável."
 
-<img src="images/1.png" width="350" height="300">
+<img src="/1.1.jpg" width="500" height="500">
+<img src="/1.2.jpg" width="500" height="500">
+
 
 <em>O Spotify notifica o usuário que o link foi copiado.</em>
 
@@ -61,7 +63,7 @@
 ### 10. Ajuda e Documentação
 "É melhor se o sistema não precisar de nenhuma explicação adicional. No entanto, pode ser necessário fornecer documentação para ajudar os usuários a entender como concluir suas tarefas."
 
-<img src="images/10.png" width="350" height="450">
+<img src="/10.jpg" width="350" height="450">
 
 <em>O GitHub tem a sua documentação e um suporte disponíveis para auxiliar os usuários. </em>
 
