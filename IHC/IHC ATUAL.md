@@ -1,6 +1,6 @@
 # Aula de Interação Humano Computador
 
-## Aula 21/02/2024
+## 10 Usability Heuristics
 
 ### 1. Visibility of System Status
 "O design deve sempre manter os usuários informados sobre o que está acontecendo, através de feedback apropriado dentro de um período de tempo razoável."
