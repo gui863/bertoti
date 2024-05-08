@@ -61,7 +61,7 @@
 ### 10. Help and Documentation
 "É melhor se o sistema não precisar de nenhuma explicação adicional. No entanto, pode ser necessário fornecer documentação para ajudar os usuários a entender como concluir suas tarefas."
 
-<img src="img/10.jpg" width="350" height="450">
+<img src="img/10.png" width="350" height="450">
 
 <em>O GitHub tem a sua documentação e um suporte disponíveis para auxiliar os usuários. </em>
 
