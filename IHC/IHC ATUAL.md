@@ -46,7 +46,7 @@
 ### 7. Flexibilidade e Eficiência
 "Os atalhos podem acelerar a interação para o usuário experiente para que o design possa atender tanto usuários inexperientes quanto experientes. Permita que os usuários personalizem ações frequentes."
 
-<img src= "images/7.png" height=480 width=700>
+<img src= "/IHC/7.jpg" height=480 width=700>
 
 ### 8. Estética e Design minimalista
 "As interfaces não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação em uma interface compete com as unidades de informação relevantes e diminui sua visibilidade relativa."
