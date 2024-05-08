@@ -54,14 +54,14 @@
 ### 9. Help Users Recognize, Diagnose, and Recover from Errors
 "As mensagens de erro devem ser expressas em linguagem simples, indicar precisamente o problema e sugerir construtivamente uma solução."
 
-<img src="images/9.png" width="350" height="300">
+<img src="img/9.png" width="350" height="300">
 
 <em>O LinkedIn alerta o usuário de que seu email ou senha está incorreto para que ele possa revisar as informações, além de dar as opções de recuperar senha, entrar de outra maneira ou criar uma conta. </em>
 
 ### 10. Help and Documentation
 "É melhor se o sistema não precisar de nenhuma explicação adicional. No entanto, pode ser necessário fornecer documentação para ajudar os usuários a entender como concluir suas tarefas."
 
-<img src="images/10.png" width="350" height="450">
+<img src="img/10.jpg" width="350" height="450">
 
 <em>O GitHub tem a sua documentação e um suporte disponíveis para auxiliar os usuários. </em>
 
