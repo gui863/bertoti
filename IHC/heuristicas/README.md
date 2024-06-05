@@ -54,9 +54,9 @@
 <img src= "img/8.jpg" height=400 width=620>
 
 ### 9. Auxiliar usuários a reconhecer, diagnosticar e recuperar erros
-"As mensagens de erro devem ser expressas em linguagem simples, indicar precisamente o problema e sugerir construtivamente uma solução."
+"Ao contrário do Google, o DuckDuckGo não incorpora uma forte heurística de prevenção de erros em sua função de busca. Isso significa que, ao digitar uma palavra incorreta, o DuckDuckGo pode não oferecer sugestões automáticas para corrigir possíveis erros de digitação. A ausência dessa heurística pode resultar em frustração para os usuários, especialmente aqueles propensos a erros ortográficos comuns."
 
-<img src="images/9.png" width="350" height="300">
+<img src="img/9.png">
 
 <em>O LinkedIn alerta o usuário de que seu email ou senha está incorreto para que ele possa revisar as informações, além de dar as opções de recuperar senha, entrar de outra maneira ou criar uma conta. </em>
 
