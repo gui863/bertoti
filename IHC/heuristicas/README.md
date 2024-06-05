@@ -26,7 +26,7 @@
 ### 4.Consistência e padrões
 "No fórum GUJ(Grupo de usuários Java), quando vamos responder um post, o botão para enviar a resposta sempre é da mesma cor, tamanho e texto. O elemento para cancelar a resposta sempre tem seus padrões:"
 
-<img src="images/4.png" width="500" height="300">
+<img src="img/4.png">
 
 ### 5. Prevenção de erros
 "Os usuários geralmente executam ações por engano. Eles precisam de uma "saída de emergência" claramente marcada para deixar a ação indesejada sem ter que passar por um processo prolongado."
@@ -38,8 +38,8 @@
 ### 6. Reconhecer ao invés de lembrar
 "Quando você entra em um produto do site da Locaweb é disponibilizado o caminho que você fez pra chegar até ele. Nós chamamos isso de breadcrumb."
 
-<img src="images/6.1.png" width="350" height="350">
-<img src="images/6.2.png" width="350" height="350">
+<img src="img/6.png">
+
 
 <em>O Gmail (junto a Microsoft) tem salvas as contas e senhas já utilizadas junto com a foto de perfil do usuário, facilitando o reconhecimento e o login na conta. </em>
 
@@ -63,7 +63,7 @@
 ### 10. Ajuda e Documentação
 "No formulário de pagamento do Walmart tem um campo pra preencher o código de segurança do cartão. Como não é algo muito óbvio, tem uma imagem próxima ao campo mostrando onde fica o código de segurança do cartão. Essa é uma boa forma de fazer uma documentação"
 
-<img src="/10.jpg" width="350" height="450">
+<img src="img/10.webp">
 
 <em>O GitHub tem a sua documentação e um suporte disponíveis para auxiliar os usuários. </em>
 
