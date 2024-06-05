@@ -24,7 +24,7 @@
 <em>O Pinterest possibilita ao usuário desfazer uma ação logo após ela ser feita</em>
 
 ### 4.Consistência e padrões
-"Os usuários não devem ter que se perguntar se palavras, situações ou ações diferentes significam a mesma coisa. Siga as convenções da plataforma e do setor."
+"No fórum GUJ(Grupo de usuários Java), quando vamos responder um post, o botão para enviar a resposta sempre é da mesma cor, tamanho e texto. O elemento para cancelar a resposta sempre tem seus padrões:"
 
 <img src="images/4.png" width="500" height="300">
 
@@ -36,7 +36,7 @@
 <em>O Word avisa o usuário que o arquivo não foi salvo e lhe dá a opção de salvar, evitando perder as alterações</em>
 
 ### 6. Reconhecer ao invés de lembrar
-"Minimize a carga de memória do usuário tornando elementos, ações e opções visíveis. O usuário não deve ter que se lembrar de informações de uma parte da interface para outra. As informações necessárias para utilizar o desenho ou modelo (por exemplo, etiquetas de campo ou itens de menu) devem estar visíveis ou ser facilmente recuperáveis quando necessário."
+"Quando você entra em um produto do site da Locaweb é disponibilizado o caminho que você fez pra chegar até ele. Nós chamamos isso de breadcrumb."
 
 <img src="images/6.1.png" width="350" height="350">
 <img src="images/6.2.png" width="350" height="350">
@@ -61,7 +61,7 @@
 <em>O LinkedIn alerta o usuário de que seu email ou senha está incorreto para que ele possa revisar as informações, além de dar as opções de recuperar senha, entrar de outra maneira ou criar uma conta. </em>
 
 ### 10. Ajuda e Documentação
-"É melhor se o sistema não precisar de nenhuma explicação adicional. No entanto, pode ser necessário fornecer documentação para ajudar os usuários a entender como concluir suas tarefas."
+"No formulário de pagamento do Walmart tem um campo pra preencher o código de segurança do cartão. Como não é algo muito óbvio, tem uma imagem próxima ao campo mostrando onde fica o código de segurança do cartão. Essa é uma boa forma de fazer uma documentação"
 
 <img src="/10.jpg" width="350" height="450">
 
